@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F85C80F1-DE34-415E-B0F8-26029A21A171}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TilesControl</RootNamespace>
+    <AssemblyName>TilesControl</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AddTileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AddTileForm.Designer.cs">
+      <DependentUpon>AddTileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoAnimation.cs" />
+    <Compile Include="UI\EditTextForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EditTextForm.Designer.cs">
+      <DependentUpon>EditTextForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\SizeCellForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SizeCellForm.Designer.cs">
+      <DependentUpon>SizeCellForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SizeForm.Designer.cs">
+      <DependentUpon>SizeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Teg.cs" />
+    <Compile Include="UI\TextBoxPadding.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\TextBoxPadding.Designer.cs">
+      <DependentUpon>TextBoxPadding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Tile.cs" />
+    <Compile Include="UI\TileControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\TileControl.Designer.cs">
+      <DependentUpon>TileControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TilesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TilesControl.Designer.cs">
+      <DependentUpon>TilesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TilesForSave.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AddTileForm.resx">
+      <DependentUpon>AddTileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EditTextForm.resx">
+      <DependentUpon>EditTextForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SizeCellForm.resx">
+      <DependentUpon>SizeCellForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SizeForm.resx">
+      <DependentUpon>SizeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TextBoxPadding.resx">
+      <DependentUpon>TextBoxPadding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TileControl.resx">
+      <DependentUpon>TileControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TilesControl.resx">
+      <DependentUpon>TilesControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BaseClasses\Diagram.BaseClasses.csproj">
+      <Project>{5ec9e0db-1d02-4b9a-973d-e5545a1cce31}</Project>
+      <Name>Diagram.BaseClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Diagram.Session\Diagram.Session.csproj">
+      <Project>{194305d9-4588-4204-a858-31b4a75fc176}</Project>
+      <Name>Diagram.Session</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScrollAblePanel\ScrollAblePanel.csproj">
+      <Project>{97ae8217-5d85-41c8-bd71-5fcbc5c85b1b}</Project>
+      <Name>ScrollAblePanel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VisualControlEffects\UIEffects.csproj">
+      <Project>{97fe1093-38d3-4eec-a602-340f792c9d25}</Project>
+      <Name>UIEffects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-24%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="html\tile\css\style.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\index.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\js\jquery-3.3.1.min.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\js\modernizr.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\js\usver.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\plugins\jquery.scrollbar\jquery.scrollbar.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\plugins\jquery.scrollbar\jquery.scrollbar.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\plugins\jquery.scrollbar\jquery.scrollbar.min.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="html\tile\plugins\jquery.scrollbar\scrollbar.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

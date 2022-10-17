@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTile", "WindowsTile\WindowsTile.csproj", "{CA32AB90-22CE-46DF-8949-B52AD30EE2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollAblePanel", "ScrollAblePanel\ScrollAblePanel.csproj", "{97AE8217-5D85-41C8-BD71-5FCBC5C85B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagram.Session", "Diagram.Session\Diagram.Session.csproj", "{194305D9-4588-4204-A858-31B4A75FC176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilesControl", "TileControl\TilesControl.csproj", "{F85C80F1-DE34-415E-B0F8-26029A21A171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagram.BaseClasses", "BaseClasses\Diagram.BaseClasses.csproj", "{5EC9E0DB-1D02-4B9A-973D-E5545A1CCE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIEffects", "VisualControlEffects\UIEffects.csproj", "{97FE1093-38D3-4EEC-A602-340F792C9D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA32AB90-22CE-46DF-8949-B52AD30EE2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA32AB90-22CE-46DF-8949-B52AD30EE2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA32AB90-22CE-46DF-8949-B52AD30EE2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA32AB90-22CE-46DF-8949-B52AD30EE2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AE8217-5D85-41C8-BD71-5FCBC5C85B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AE8217-5D85-41C8-BD71-5FCBC5C85B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AE8217-5D85-41C8-BD71-5FCBC5C85B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AE8217-5D85-41C8-BD71-5FCBC5C85B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{194305D9-4588-4204-A858-31B4A75FC176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194305D9-4588-4204-A858-31B4A75FC176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194305D9-4588-4204-A858-31B4A75FC176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194305D9-4588-4204-A858-31B4A75FC176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85C80F1-DE34-415E-B0F8-26029A21A171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85C80F1-DE34-415E-B0F8-26029A21A171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85C80F1-DE34-415E-B0F8-26029A21A171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85C80F1-DE34-415E-B0F8-26029A21A171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC9E0DB-1D02-4B9A-973D-E5545A1CCE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC9E0DB-1D02-4B9A-973D-E5545A1CCE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC9E0DB-1D02-4B9A-973D-E5545A1CCE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC9E0DB-1D02-4B9A-973D-E5545A1CCE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E975A6E7-168A-41F1-A3A0-30ABDAA19831}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,74 @@
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\BaseClasses\bin\Debug\BaseClasses.dll
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\BaseClasses\bin\Debug\BaseClasses.pdb
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\BaseClasses\obj\Debug\BaseClasses.dll
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\BaseClasses\bin\Debug\BaseClasses.dll
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\BaseClasses.dll
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\BaseClasses.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\bin\Debug\BaseClasses.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\bin\Debug\BaseClasses.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\bin\Debug\UserConfig.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\bin\Debug\UserConfig.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\Diagram.BaseClasses.csprojAssemblyReference.cache
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\BaseClasses.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\BaseClasses\obj\Debug\BaseClasses.pdb
+D:\Программирование\Diagram\BaseClasses\bin\Debug\BaseClasses.dll
+D:\Программирование\Diagram\BaseClasses\bin\Debug\BaseClasses.pdb
+D:\Программирование\Diagram\BaseClasses\bin\Debug\UserConfig.dll
+D:\Программирование\Diagram\BaseClasses\bin\Debug\UserConfig.pdb
+D:\Программирование\Diagram\BaseClasses\obj\Debug\Diagram.BaseClasses.csprojAssemblyReference.cache
+D:\Программирование\Diagram\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+D:\Программирование\Diagram\BaseClasses\obj\Debug\BaseClasses.dll
+D:\Программирование\Diagram\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\WindowsTile\BaseClasses\bin\Debug\BaseClasses.dll
+C:\WindowsTile\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\WindowsTile\BaseClasses\bin\Debug\UserConfig.dll
+C:\WindowsTile\BaseClasses\bin\Debug\UserConfig.pdb
+C:\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csprojAssemblyReference.cache
+C:\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CoreCompileInputs.cache
+C:\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+C:\WindowsTile\BaseClasses\obj\Debug\BaseClasses.dll
+C:\WindowsTile\BaseClasses\obj\Debug\BaseClasses.pdb
+D:\Программирование\WindowsTile\BaseClasses\bin\Debug\BaseClasses.dll
+D:\Программирование\WindowsTile\BaseClasses\bin\Debug\BaseClasses.pdb
+D:\Программирование\WindowsTile\BaseClasses\bin\Debug\UserConfig.dll
+D:\Программирование\WindowsTile\BaseClasses\bin\Debug\UserConfig.pdb
+D:\Программирование\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csprojAssemblyReference.cache
+D:\Программирование\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+D:\Программирование\WindowsTile\BaseClasses\obj\Debug\BaseClasses.dll
+D:\Программирование\WindowsTile\BaseClasses\obj\Debug\BaseClasses.pdb
+E:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\BaseClasses.dll
+E:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\BaseClasses.pdb
+E:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\UserConfig.dll
+E:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\UserConfig.pdb
+E:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csprojAssemblyReference.cache
+E:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CoreCompileInputs.cache
+E:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+E:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\BaseClasses.dll
+E:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\BaseClasses.pdb
+D:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\BaseClasses.dll
+D:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\BaseClasses.pdb
+D:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\UserConfig.dll
+D:\Программирование активное\WindowsTile\BaseClasses\bin\Debug\UserConfig.pdb
+D:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csprojAssemblyReference.cache
+D:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+D:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\BaseClasses.dll
+D:\Программирование активное\WindowsTile\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\Programming_active\!test\WindowsTile\BaseClasses\bin\Debug\BaseClasses.dll
+C:\Programming_active\!test\WindowsTile\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\Programming_active\!test\WindowsTile\BaseClasses\bin\Debug\UserConfig.dll
+C:\Programming_active\!test\WindowsTile\BaseClasses\bin\Debug\UserConfig.pdb
+C:\Programming_active\!test\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.AssemblyReference.cache
+C:\Programming_active\!test\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CoreCompileInputs.cache
+C:\Programming_active\!test\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CopyComplete
+C:\Programming_active\!test\WindowsTile\BaseClasses\obj\Debug\BaseClasses.dll
+C:\Programming_active\!test\WindowsTile\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\Programming_active\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.AssemblyReference.cache
+C:\Programming_active\WindowsTile\BaseClasses\obj\Debug\Diagram.BaseClasses.csproj.CoreCompileInputs.cache
+C:\Programming_active\WindowsTile\BaseClasses\obj\Debug\BaseClasses.dll
+C:\Programming_active\WindowsTile\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\Programming_active\WindowsTile\BaseClasses\bin\Debug\BaseClasses.dll
+C:\Programming_active\WindowsTile\BaseClasses\bin\Debug\BaseClasses.pdb

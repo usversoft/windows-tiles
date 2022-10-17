@@ -1,0 +1,10 @@
+C:\GliffyMy\GliffyMy_v.1.0\BaseClasses\obj\Debug\BaseClasses.csproj.CoreCompileInputs.cache
+C:\GliffyMy\GliffyMy_v.1.0\BaseClasses\bin\Debug\BaseClasses.dll
+C:\GliffyMy\GliffyMy_v.1.0\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\GliffyMy\GliffyMy_v.1.0\BaseClasses\obj\Debug\BaseClasses.dll
+C:\GliffyMy\GliffyMy_v.1.0\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\GliffyMy\TypeExample\BaseClasses\obj\Debug\BaseClasses.csproj.CoreCompileInputs.cache
+C:\GliffyMy\TypeExample\BaseClasses\bin\Debug\BaseClasses.dll
+C:\GliffyMy\TypeExample\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\GliffyMy\TypeExample\BaseClasses\obj\Debug\BaseClasses.dll
+C:\GliffyMy\TypeExample\BaseClasses\obj\Debug\BaseClasses.pdb

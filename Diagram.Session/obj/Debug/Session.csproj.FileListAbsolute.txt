@@ -1,0 +1,6 @@
+C:\GliffyMy\TypeExample\Session\bin\Debug\Session.dll
+C:\GliffyMy\TypeExample\Session\bin\Debug\Session.pdb
+C:\GliffyMy\TypeExample\Session\obj\Debug\Session.csproj.CoreCompileInputs.cache
+C:\GliffyMy\TypeExample\Session\obj\Debug\Session.dll
+C:\GliffyMy\TypeExample\Session\obj\Debug\Session.pdb
+C:\GliffyMy\TypeExample\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache

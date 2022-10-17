@@ -1,0 +1,272 @@
+C:\Users\krutovercev\Downloads\Scroll_Source\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\krutovercev\Downloads\Scroll_Source\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\krutovercev\Downloads\Scroll_Source\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\krutovercev\Downloads\Scroll_Source\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.Cache
+C:\Users\krutovercev\Downloads\Scroll_Source\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\krutovercev\Downloads\Scroll_Source\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Рязанцев Александр\Downloads\Telegram Desktop\WindowsFormsApp5\WindowsFormsApp5\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Рязанцев Александр\Documents\Visual Studio 2017\Projects\TestScrollBar\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Project\Solution\Solution\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Project\Solution\Solution\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Project\Solution\Solution\ScrollAblePanel\bin\Debug\Session.dll
+C:\Project\Solution\Solution\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Project\Solution\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\bin\Debug\Session.dll
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojResolveAssemblyReference.cache
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.Cache
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Work\Ch\12092019\Solution\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\bin\Debug\Session.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+D:\Программирование\Diagram\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Программирование\Diagram\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Программирование\Diagram\ScrollAblePanel\bin\Debug\Session.dll
+D:\Программирование\Diagram\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\WindowsTile\ScrollAblePanel\bin\Debug\Session.dll
+C:\WindowsTile\ScrollAblePanel\bin\Debug\Session.pdb
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+D:\Программирование\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+D:\Программирование\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Программирование\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Программирование\WindowsTile\ScrollAblePanel\bin\Debug\Session.dll
+D:\Программирование\WindowsTile\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Программирование\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\admin\Downloads\Telegram Desktop\ScrollAblePanel_Z2\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\admin\Downloads\NewScroll (2)еееееееееее\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Ваня\NewScroll\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll_test_17042020\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Users\Usver\Downloads\Telegram Desktop\NewScroll (2)\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.dll
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Программирование\!test\NewScroll-my\NewScroll\NewScroll\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+E:\Программирование активное\Diagram\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+E:\Программирование активное\Diagram\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+E:\Программирование активное\Diagram\ScrollAblePanel\bin\Debug\Session.dll
+E:\Программирование активное\Diagram\ScrollAblePanel\bin\Debug\Session.pdb
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+E:\Программирование активное\Diagram\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\Session.dll
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\Session.pdb
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+E:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.dll
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\UserConfig.dll
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.pdb
+E:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\UserConfig.pdb
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\Session.dll
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.dll
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\UserConfig.dll
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\Session.pdb
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.pdb
+D:\Программирование активное\WindowsTile\ScrollAblePanel\bin\Debug\UserConfig.pdb
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csprojAssemblyReference.cache
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+D:\Программирование активное\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\Session.dll
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.dll
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\UserConfig.dll
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.pdb
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\bin\Debug\UserConfig.pdb
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.AssemblyReference.cache
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Programming_active\!test\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb
+C:\Programming_active\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.dll
+C:\Programming_active\WindowsTile\ScrollAblePanel\bin\Debug\ScrollAblePanel.pdb
+C:\Programming_active\WindowsTile\ScrollAblePanel\bin\Debug\Session.dll
+C:\Programming_active\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.dll
+C:\Programming_active\WindowsTile\ScrollAblePanel\bin\Debug\Session.pdb
+C:\Programming_active\WindowsTile\ScrollAblePanel\bin\Debug\BaseClasses.pdb
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.AssemblyReference.cache
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAt.resources
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.ScrollAblePanelControl.resources
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.GenerateResource.cache
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CoreCompileInputs.cache
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.csproj.CopyComplete
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.dll
+C:\Programming_active\WindowsTile\ScrollAblePanel\obj\Debug\ScrollAblePanel.pdb

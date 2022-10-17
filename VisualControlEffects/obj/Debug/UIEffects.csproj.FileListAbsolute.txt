@@ -1,0 +1,107 @@
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Work\Ch\Chat_january2020\Chat_january2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_febrary2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+C:\Мои проекты+\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Work\Ch\Chat_march2020\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Мои проекты+\Chat\Chat_march2020\Chat_march2020\Chat_march2020\Solution\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+C:\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.dll
+C:\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.pdb
+C:\WindowsTile\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+C:\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+C:\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+C:\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.dll
+C:\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Программирование\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Программирование\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Программирование\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Программирование\WindowsTile\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Программирование\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Программирование\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Программирование\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.pdb
+E:\Программирование активное\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.dll
+E:\Программирование активное\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.pdb
+E:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+E:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+E:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+E:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.dll
+E:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.pdb
+E:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+D:\Программирование активное\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.dll
+D:\Программирование активное\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.pdb
+D:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+D:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+D:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.dll
+D:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.pdb
+D:\Программирование активное\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csprojAssemblyReference.cache
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.dll
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\bin\Debug\UIEffects.pdb
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.AssemblyReference.cache
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\obj\Debug\UIEffectsSpace.DoubleBitmapForm.resources
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.GenerateResource.cache
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.csproj.CoreCompileInputs.cache
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.dll
+C:\Programming_active\!test\WindowsTile\VisualControlEffects\obj\Debug\UIEffects.pdb

@@ -1,0 +1,74 @@
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\Session\bin\Debug\Session.dll
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\Session\bin\Debug\Session.pdb
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\Session\bin\Debug\System.Net.Http.dll
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\Session\bin\Debug\System.Net.Http.xml
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\Session\obj\Debug\Session.dll
+E:\_Иван 2018\TreePad++\NewTreePad++\Diagram\Session\obj\Debug\Session.pdb
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\Diagram.Session\bin\Debug\Session.dll
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\Diagram.Session\bin\Debug\Session.pdb
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Diagram.Session.csproj.CoreCompileInputs.cache
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Session.dll
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Session.pdb
+C:\Users\Рязанцев Александр\Desktop\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Diagram.Session.csprojResolveAssemblyReference.cache
+D:\Программирование\_Для Вани 2018\То что делали вместе\Diagram.Session\bin\Debug\Session.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\Diagram.Session\bin\Debug\Session.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Session.dll
+D:\Программирование\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Session.pdb
+D:\Программирование\_Для Вани 2018\То что делали вместе\Diagram.Session\obj\Debug\Diagram.Session.csprojAssemblyReference.cache
+D:\Программирование\Diagram\Diagram.Session\bin\Debug\Session.dll
+D:\Программирование\Diagram\Diagram.Session\bin\Debug\Session.pdb
+D:\Программирование\Diagram\Diagram.Session\obj\Debug\Diagram.Session.csprojAssemblyReference.cache
+D:\Программирование\Diagram\Diagram.Session\obj\Debug\Session.dll
+D:\Программирование\Diagram\Diagram.Session\obj\Debug\Session.pdb
+C:\WindowsTile\Diagram.Session\bin\Debug\Session.dll
+C:\WindowsTile\Diagram.Session\bin\Debug\Session.pdb
+C:\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CoreCompileInputs.cache
+C:\WindowsTile\Diagram.Session\obj\Debug\Session.dll
+C:\WindowsTile\Diagram.Session\obj\Debug\Session.pdb
+C:\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csprojAssemblyReference.cache
+D:\Программирование\WindowsTile\Diagram.Session\bin\Debug\Session.dll
+D:\Программирование\WindowsTile\Diagram.Session\bin\Debug\Session.pdb
+D:\Программирование\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csprojAssemblyReference.cache
+D:\Программирование\WindowsTile\Diagram.Session\obj\Debug\Session.dll
+D:\Программирование\WindowsTile\Diagram.Session\obj\Debug\Session.pdb
+E:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\Session.dll
+E:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\Session.pdb
+E:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CoreCompileInputs.cache
+E:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Session.dll
+E:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Session.pdb
+E:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csprojAssemblyReference.cache
+E:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.dll
+E:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\UserConfig.dll
+E:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.pdb
+E:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\UserConfig.pdb
+E:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CopyComplete
+D:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\Session.dll
+D:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\Session.pdb
+D:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.dll
+D:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\UserConfig.dll
+D:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.pdb
+D:\Программирование активное\WindowsTile\Diagram.Session\bin\Debug\UserConfig.pdb
+D:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csprojAssemblyReference.cache
+D:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CopyComplete
+D:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Session.dll
+D:\Программирование активное\WindowsTile\Diagram.Session\obj\Debug\Session.pdb
+C:\Programming_active\!test\WindowsTile\Diagram.Session\bin\Debug\Session.dll
+C:\Programming_active\!test\WindowsTile\Diagram.Session\bin\Debug\Session.pdb
+C:\Programming_active\!test\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.dll
+C:\Programming_active\!test\WindowsTile\Diagram.Session\bin\Debug\UserConfig.dll
+C:\Programming_active\!test\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.pdb
+C:\Programming_active\!test\WindowsTile\Diagram.Session\bin\Debug\UserConfig.pdb
+C:\Programming_active\!test\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.AssemblyReference.cache
+C:\Programming_active\!test\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CoreCompileInputs.cache
+C:\Programming_active\!test\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CopyComplete
+C:\Programming_active\!test\WindowsTile\Diagram.Session\obj\Debug\Session.dll
+C:\Programming_active\!test\WindowsTile\Diagram.Session\obj\Debug\Session.pdb
+C:\Programming_active\WindowsTile\Diagram.Session\bin\Debug\Session.dll
+C:\Programming_active\WindowsTile\Diagram.Session\bin\Debug\Session.pdb
+C:\Programming_active\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.dll
+C:\Programming_active\WindowsTile\Diagram.Session\bin\Debug\BaseClasses.pdb
+C:\Programming_active\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.AssemblyReference.cache
+C:\Programming_active\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CoreCompileInputs.cache
+C:\Programming_active\WindowsTile\Diagram.Session\obj\Debug\Diagram.Session.csproj.CopyComplete
+C:\Programming_active\WindowsTile\Diagram.Session\obj\Debug\Session.dll
+C:\Programming_active\WindowsTile\Diagram.Session\obj\Debug\Session.pdb
